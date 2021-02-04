@@ -1,1 +1,3 @@
-"new file content" 
+"new file confdffd
+modifef for conflict 
+'tent" 
